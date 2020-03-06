@@ -1,0 +1,5 @@
+1. https://www.kaggle.com/imdevskp/corona-virus-report#2019-nCoV%20cases%20dataset%20by%20JHU.csv
+2. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200130-sitrep-10-ncov.pdf?sfvrsn=d0b2e480_2
+3. https://github.com/YiranJing/Coronavirus-Epidemic-2019-nCov
+4. https://www.worldometers.info/coronavirus/coronavirus-death-rate/
+5. https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext
